@@ -79,7 +79,7 @@ class HomePage extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: const [
                             Text(
-                              'Akhyar AN',
+                              'Ahdina S',
                               style: TextStyle(
                                 fontSize: 20,
                                 fontWeight: FontWeight.bold,
